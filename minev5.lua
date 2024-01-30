@@ -13,5 +13,5 @@ for i = 1, width do
         robot.forward()
         robot.turnright()
     end
-
+end
 
